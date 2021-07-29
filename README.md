@@ -48,7 +48,7 @@ The dataset are interleaved in the following scheme:
 ## Training
 If you want to retrain the model from scratch just run:
 ```
-mv checkpoints checkpoints_bk && python train.py
+mv checkpoints checkpoints_v1 && python train.py
 ```
 This will move the original checkpoints and run the experiment again.
 Note you can modify `config.ini` to load the checkpoint without moving the files.
