@@ -1,5 +1,4 @@
-# [mlhep2021](https://www.kaggle.com/c/mlhep-2021-competition-2)
-
+# MLHEP-2021 Baseline
 ## Dataset
 Dataset is on CoCalc in folder `/home/user/share/competition` and is available at [Kaggle](https://www.kaggle.com/c/mlhep2021-classification/data)
 
